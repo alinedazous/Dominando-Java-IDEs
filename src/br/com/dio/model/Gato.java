@@ -59,6 +59,7 @@ public class Gato {
 		Gato other = (Gato) obj;
 		return Objects.equals(cor, other.cor) && Objects.equals(idade, other.idade) && Objects.equals(nome, other.nome);
 	}
+	
 
 	@Override
 	public String toString() {
