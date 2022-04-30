@@ -1,0 +1,30 @@
+IDEs mais utilizadas Java
+- Eclipse IDE
+- ItelliJ IDEA IDE
+
+- História do Java
+Linguagem de programação orientada a objetos criada na década de 90.
+Orientada a objetos.
+Linguagem interpretada.
+
+Na IDE, escreve o programa em Java, que é salvo em .java. O compilador (JDK) irá pegar esse arquivo e converter para .class
+A máquina virtual do Java (JVM) irá interpretar para linguagem de máquina para que o SO consiga ler e interpretar as instruções.
+Diferente das linguagens de programação compiladas (simultâneo).
+
+- Plataforma x Linguagem Java
+- WORA (Write once, run anywhere).
+
+Java SE (Java Plataform. Standard Edition) -
+
+Lembrando de sistemas embarcados (calculadora, controle remoto...)
+
+JDK: Java Development Kit: kit de desenvolvimento por compilar o código fonte.
+JVM: Java Virtual Machine: MV responsável por executar o bytecode (.class)
+JRE: caso precise apenas executar o programa.
+
+IDE: ambiente de desenvolvimmento integrado. Pensar nele como um editor de texto.
+ 
+Eclipse: IDE para desenvolvimento Java, porém suporta outras linguagens.
+
+IntelliJ IDEA: ambiente de desenvolvimento integrado escrito em Java.
+Visual Code (VS Code): também é uma IDE!! IDE é uma ferramenta para programar. 
