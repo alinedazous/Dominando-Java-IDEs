@@ -23,8 +23,20 @@ JVM: Java Virtual Machine: MV responsável por executar o bytecode (.class)
 JRE: caso precise apenas executar o programa.
 
 IDE: ambiente de desenvolvimmento integrado. Pensar nele como um editor de texto.
- 
+
 Eclipse: IDE para desenvolvimento Java, porém suporta outras linguagens.
 
 IntelliJ IDEA: ambiente de desenvolvimento integrado escrito em Java.
 Visual Code (VS Code): também é uma IDE!! IDE é uma ferramenta para programar. 
+
+
+
+## Debug ##
+
+É encontrar e corrigir erros que podem acontecer no programa.
+
+Comandos: 
+
+ctrl + Alt + seta para baixo: duplica a linha do código na linha abaixo
+
+ctrl + shift + T: buscar outras classes
